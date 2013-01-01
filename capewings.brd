@@ -1678,21 +1678,21 @@ design rules under a new name.</description>
 <elements>
 <element name="P6" library="con-lsta" package="FE05-2" value="" x="12.065" y="17.78" locked="yes" smashed="yes" rot="MR180">
 <attribute name="OC_NEWARK" value="unknown" x="12.065" y="17.78" size="1.778" layer="28" rot="MR180" display="off"/>
-<attribute name="MPN" value="" x="12.065" y="17.78" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="MPN" value="SSHQ-105-D-10-GT-LF " x="12.065" y="17.78" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="MF" value="" x="12.065" y="17.78" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="OC_FARNELL" value="unknown" x="12.065" y="17.78" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="VALUE" x="5.715" y="22.479" size="1.27" layer="28" ratio="10" rot="MR180"/>
 </element>
 <element name="P9" library="BoneCapeParts" package="FE23-2" value="" x="43.815" y="3.175" locked="yes" smashed="yes" rot="MR180">
 <attribute name="OC_NEWARK" value="unknown" x="43.815" y="3.175" size="1.778" layer="28" rot="MR180" display="off"/>
-<attribute name="MPN" value="" x="43.815" y="3.175" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="MPN" value="SSHQ-123-D-10-GT-LF " x="43.815" y="3.175" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="MF" value="" x="43.815" y="3.175" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="OC_FARNELL" value="unknown" x="43.815" y="3.175" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="VALUE" x="18.415" y="7.874" size="1.27" layer="28" ratio="10" rot="MR180"/>
 </element>
 <element name="P8" library="BoneCapeParts" package="FE23-2" value="" x="43.815" y="51.435" locked="yes" smashed="yes" rot="MR180">
 <attribute name="OC_NEWARK" value="unknown" x="43.815" y="51.435" size="1.778" layer="28" rot="MR180" display="off"/>
-<attribute name="MPN" value="" x="43.815" y="51.435" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="MPN" value="SSHQ-123-D-10-GT-LF " x="43.815" y="51.435" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="MF" value="" x="43.815" y="51.435" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="OC_FARNELL" value="unknown" x="43.815" y="51.435" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="VALUE" x="18.415" y="56.134" size="1.27" layer="28" ratio="10" rot="MR180"/>
@@ -1703,21 +1703,21 @@ design rules under a new name.</description>
 <element name="H4" library="BoneCapeParts" package="HOLE" value="" x="80.645" y="47.625" locked="yes" smashed="yes"/>
 <element name="P1" library="con-lsta" package="FE05-2" value="" x="12.065" y="86.995" locked="yes" smashed="yes" rot="MR180">
 <attribute name="OC_NEWARK" value="unknown" x="12.065" y="61.595" size="1.778" layer="28" rot="MR180" display="off"/>
-<attribute name="MPN" value="" x="12.065" y="61.595" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="MPN" value="SSHQ-105-D-10-GT-LF " x="12.065" y="61.595" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="MF" value="" x="12.065" y="61.595" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="OC_FARNELL" value="unknown" x="12.065" y="61.595" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="VALUE" x="5.715" y="91.694" size="1.27" layer="28" ratio="10" rot="MR180"/>
 </element>
 <element name="P2" library="BoneCapeParts" package="FE23-2" value="" x="43.815" y="72.39" locked="yes" smashed="yes" rot="MR180">
 <attribute name="OC_NEWARK" value="unknown" x="43.815" y="85.09" size="1.778" layer="28" rot="MR180" display="off"/>
-<attribute name="MPN" value="" x="43.815" y="85.09" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="MPN" value="SSHQ-123-D-10-GT-LF " x="43.815" y="85.09" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="MF" value="" x="43.815" y="85.09" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="OC_FARNELL" value="unknown" x="43.815" y="85.09" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="VALUE" x="18.415" y="77.089" size="1.27" layer="28" ratio="10" rot="MR180"/>
 </element>
 <element name="P3" library="BoneCapeParts" package="FE23-2" value="" x="43.815" y="120.65" locked="yes" smashed="yes" rot="MR180">
 <attribute name="OC_NEWARK" value="unknown" x="43.815" y="133.35" size="1.778" layer="28" rot="MR180" display="off"/>
-<attribute name="MPN" value="" x="43.815" y="133.35" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="MPN" value="SSHQ-123-D-10-GT-LF " x="43.815" y="133.35" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="MF" value="" x="43.815" y="133.35" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="OC_FARNELL" value="unknown" x="43.815" y="133.35" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="VALUE" x="18.415" y="125.349" size="1.27" layer="28" ratio="10" rot="MR180"/>
@@ -1728,21 +1728,21 @@ design rules under a new name.</description>
 <element name="H8" library="BoneCapeParts" package="HOLE" value="" x="14.605" y="120.65" locked="yes" smashed="yes"/>
 <element name="P4" library="con-lsta" package="FE05-2" value="" x="12.065" y="-51.435" locked="yes" smashed="yes" rot="MR180">
 <attribute name="OC_NEWARK" value="unknown" x="12.065" y="-76.835" size="1.778" layer="28" rot="MR180" display="off"/>
-<attribute name="MPN" value="" x="12.065" y="-76.835" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="MPN" value="SSHQ-105-D-10-GT-LF " x="12.065" y="-76.835" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="MF" value="" x="12.065" y="-76.835" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="OC_FARNELL" value="unknown" x="12.065" y="-76.835" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="VALUE" x="5.715" y="-46.736" size="1.27" layer="28" ratio="10" rot="MR180"/>
 </element>
 <element name="P5" library="BoneCapeParts" package="FE23-2" value="" x="43.815" y="-66.04" locked="yes" smashed="yes" rot="MR180">
 <attribute name="OC_NEWARK" value="unknown" x="43.815" y="-53.34" size="1.778" layer="28" rot="MR180" display="off"/>
-<attribute name="MPN" value="" x="43.815" y="-53.34" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="MPN" value="SSHQ-123-D-10-GT-LF " x="43.815" y="-53.34" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="MF" value="" x="43.815" y="-53.34" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="OC_FARNELL" value="unknown" x="43.815" y="-53.34" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="VALUE" x="18.415" y="-61.341" size="1.27" layer="28" ratio="10" rot="MR180"/>
 </element>
 <element name="P7" library="BoneCapeParts" package="FE23-2" value="" x="43.815" y="-17.78" locked="yes" smashed="yes" rot="MR180">
 <attribute name="OC_NEWARK" value="unknown" x="43.815" y="-5.08" size="1.778" layer="28" rot="MR180" display="off"/>
-<attribute name="MPN" value="" x="43.815" y="-5.08" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="MPN" value="SSHQ-123-D-10-GT-LF " x="43.815" y="-5.08" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="MF" value="" x="43.815" y="-5.08" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="OC_FARNELL" value="unknown" x="43.815" y="-5.08" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="VALUE" x="18.415" y="-13.081" size="1.27" layer="28" ratio="10" rot="MR180"/>
@@ -1753,153 +1753,168 @@ design rules under a new name.</description>
 <element name="H12" library="BoneCapeParts" package="HOLE" value="" x="80.645" y="-21.59" locked="yes" smashed="yes"/>
 <element name="P10" library="con-lsta" package="FE05-2" value="" x="12.065" y="58.42" locked="yes" smashed="yes" rot="MR180">
 <attribute name="OC_NEWARK" value="unknown" x="12.065" y="33.02" size="1.778" layer="28" rot="MR180" display="off"/>
-<attribute name="MPN" value="" x="12.065" y="33.02" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="MPN" value="TSHC-105-D-03-145-GT-LF " x="12.065" y="33.02" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="MF" value="" x="12.065" y="33.02" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="OC_FARNELL" value="unknown" x="12.065" y="33.02" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="VALUE" x="5.715" y="63.119" size="1.27" layer="28" ratio="10" rot="MR180"/>
 </element>
 <element name="P11" library="BoneCapeParts" package="FE23-2" value="" x="43.815" y="58.42" locked="yes" smashed="yes">
 <attribute name="OC_NEWARK" value="unknown" x="43.815" y="45.72" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="" x="43.815" y="45.72" size="1.778" layer="27" display="off"/>
+<attribute name="MPN" value="TSHC-123-D-03-145-GT-LF " x="43.815" y="45.72" size="1.778" layer="27" display="off"/>
 <attribute name="MF" value="" x="43.815" y="45.72" size="1.778" layer="27" display="off"/>
 <attribute name="OC_FARNELL" value="unknown" x="43.815" y="45.72" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="18.415" y="53.721" size="1.27" layer="27" ratio="10"/>
 </element>
 <element name="P12" library="BoneCapeParts" package="FE23-2" value="" x="43.815" y="127.635" locked="yes" smashed="yes">
 <attribute name="OC_NEWARK" value="unknown" x="43.815" y="114.935" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="" x="43.815" y="114.935" size="1.778" layer="27" display="off"/>
+<attribute name="MPN" value="TSHC-123-D-03-145-GT-LF " x="43.815" y="114.935" size="1.778" layer="27" display="off"/>
 <attribute name="MF" value="" x="43.815" y="114.935" size="1.778" layer="27" display="off"/>
 <attribute name="OC_FARNELL" value="unknown" x="43.815" y="114.935" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="18.415" y="122.936" size="1.27" layer="27" ratio="10"/>
 </element>
 <element name="P13" library="con-lsta" package="FE05-2" value="" x="12.065" y="65.405" locked="yes" smashed="yes" rot="MR180">
 <attribute name="OC_NEWARK" value="unknown" x="12.065" y="40.005" size="1.778" layer="28" rot="MR180" display="off"/>
-<attribute name="MPN" value="" x="12.065" y="40.005" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="MPN" value="TSHC-105-D-03-145-GT-LF " x="12.065" y="40.005" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="MF" value="" x="12.065" y="40.005" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="OC_FARNELL" value="unknown" x="12.065" y="40.005" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="VALUE" x="5.715" y="70.104" size="1.27" layer="28" ratio="10" rot="MR180"/>
 </element>
 <element name="P14" library="BoneCapeParts" package="FE23-2" value="" x="43.815" y="65.405" locked="yes" smashed="yes">
 <attribute name="OC_NEWARK" value="unknown" x="43.815" y="52.705" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="" x="43.815" y="52.705" size="1.778" layer="27" display="off"/>
+<attribute name="MPN" value="TSHC-123-D-03-145-GT-LF " x="43.815" y="52.705" size="1.778" layer="27" display="off"/>
 <attribute name="MF" value="" x="43.815" y="52.705" size="1.778" layer="27" display="off"/>
 <attribute name="OC_FARNELL" value="unknown" x="43.815" y="52.705" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="18.415" y="60.706" size="1.27" layer="27" ratio="10"/>
 </element>
 <element name="P15" library="BoneCapeParts" package="FE23-2" value="" x="43.815" y="134.62" locked="yes" smashed="yes">
 <attribute name="OC_NEWARK" value="unknown" x="43.815" y="121.92" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="" x="43.815" y="121.92" size="1.778" layer="27" display="off"/>
+<attribute name="MPN" value="TSHC-123-D-03-145-GT-LF " x="43.815" y="121.92" size="1.778" layer="27" display="off"/>
 <attribute name="MF" value="" x="43.815" y="121.92" size="1.778" layer="27" display="off"/>
 <attribute name="OC_FARNELL" value="unknown" x="43.815" y="121.92" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="18.415" y="129.921" size="1.27" layer="27" ratio="10"/>
 </element>
 <element name="P16" library="con-lsta" package="FE05-2" value="" x="12.065" y="-73.025" locked="yes" smashed="yes" rot="MR180">
 <attribute name="OC_NEWARK" value="unknown" x="12.065" y="-98.425" size="1.778" layer="28" rot="MR180" display="off"/>
-<attribute name="MPN" value="" x="12.065" y="-98.425" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="MPN" value="TSHC-105-D-03-145-GT-LF " x="12.065" y="-98.425" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="MF" value="" x="12.065" y="-98.425" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="OC_FARNELL" value="unknown" x="12.065" y="-98.425" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="VALUE" x="5.715" y="-68.326" size="1.27" layer="28" ratio="10" rot="MR180"/>
 </element>
 <element name="P17" library="BoneCapeParts" package="FE23-2" value="" x="43.815" y="-73.025" locked="yes" smashed="yes" rot="MR180">
 <attribute name="OC_NEWARK" value="unknown" x="46.355" y="-60.325" size="1.778" layer="28" rot="MR180" display="off"/>
-<attribute name="MPN" value="" x="46.355" y="-60.325" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="MPN" value="TSHC-123-D-03-145-GT-LF " x="46.355" y="-60.325" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="MF" value="" x="46.355" y="-60.325" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="OC_FARNELL" value="unknown" x="46.355" y="-60.325" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="VALUE" x="18.415" y="-68.326" size="1.27" layer="28" ratio="10" rot="MR180"/>
 </element>
 <element name="P18" library="BoneCapeParts" package="FE23-2" value="" x="43.815" y="-3.81" locked="yes" smashed="yes" rot="MR180">
 <attribute name="OC_NEWARK" value="unknown" x="46.355" y="8.89" size="1.778" layer="28" rot="MR180" display="off"/>
-<attribute name="MPN" value="" x="46.355" y="8.89" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="MPN" value="TSHC-123-D-03-145-GT-LF " x="46.355" y="8.89" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="MF" value="" x="46.355" y="8.89" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="OC_FARNELL" value="unknown" x="46.355" y="8.89" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="VALUE" x="18.415" y="0.889" size="1.27" layer="28" ratio="10" rot="MR180"/>
 </element>
 <element name="P19" library="con-lsta" package="FE05-2" value="" x="12.065" y="-80.01" locked="yes" smashed="yes" rot="MR180">
 <attribute name="OC_NEWARK" value="unknown" x="12.065" y="-105.41" size="1.778" layer="28" rot="MR180" display="off"/>
-<attribute name="MPN" value="" x="12.065" y="-105.41" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="MPN" value="TSHC-105-D-03-145-GT-LF " x="12.065" y="-105.41" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="MF" value="" x="12.065" y="-105.41" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="OC_FARNELL" value="unknown" x="12.065" y="-105.41" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="VALUE" x="5.715" y="-75.311" size="1.27" layer="28" ratio="10" rot="MR180"/>
 </element>
 <element name="P20" library="BoneCapeParts" package="FE23-2" value="" x="43.815" y="-80.01" locked="yes" smashed="yes" rot="MR180">
 <attribute name="OC_NEWARK" value="unknown" x="46.355" y="-67.31" size="1.778" layer="28" rot="MR180" display="off"/>
-<attribute name="MPN" value="" x="46.355" y="-67.31" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="MPN" value="TSHC-123-D-03-145-GT-LF " x="46.355" y="-67.31" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="MF" value="" x="46.355" y="-67.31" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="OC_FARNELL" value="unknown" x="46.355" y="-67.31" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="VALUE" x="18.415" y="-75.311" size="1.27" layer="28" ratio="10" rot="MR180"/>
 </element>
 <element name="P21" library="BoneCapeParts" package="FE23-2" value="" x="43.815" y="-10.795" locked="yes" smashed="yes" rot="MR180">
 <attribute name="OC_NEWARK" value="unknown" x="46.355" y="1.905" size="1.778" layer="28" rot="MR180" display="off"/>
-<attribute name="MPN" value="" x="46.355" y="1.905" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="MPN" value="TSHC-123-D-03-145-GT-LF " x="46.355" y="1.905" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="MF" value="" x="46.355" y="1.905" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="OC_FARNELL" value="unknown" x="46.355" y="1.905" size="1.778" layer="28" rot="MR180" display="off"/>
 <attribute name="VALUE" x="18.415" y="-6.096" size="1.27" layer="28" ratio="10" rot="MR180"/>
 </element>
-<element name="LED1" library="led" package="CHIPLED_0603" value="" x="89.535" y="-41.91" locked="yes" smashed="yes">
+<element name="LED1" library="led" package="CHIPLED_0603" value="blue" x="89.535" y="-41.91" locked="yes" smashed="yes">
 <attribute name="NAME" x="88.9" y="-44.45" size="0.635" layer="25" ratio="20" rot="R90"/>
 <attribute name="VALUE" x="91.44" y="-43.18" size="1.27" layer="27" rot="R90"/>
+<attribute name="MPN" value="HT-193NB-5589" x="89.535" y="-41.91" size="1.778" layer="27" display="off"/>
 </element>
-<element name="R33" library="rcl" package="R0603" value="4.75K" x="89.535" y="-41.91" locked="yes" smashed="yes" rot="MR90">
+<element name="R33" library="rcl" package="R0603" value="150" x="89.535" y="-41.91" locked="yes" smashed="yes" rot="MR90">
 <attribute name="NAME" x="90.17" y="-42.545" size="0.635" layer="26" ratio="20" rot="MR90"/>
+<attribute name="MPN" value="302-150-RC" x="89.535" y="-41.91" size="1.778" layer="28" rot="MR90" display="off"/>
 </element>
-<element name="LED2" library="led" package="CHIPLED_0603" value="" x="89.535" y="-31.75" locked="yes" smashed="yes">
+<element name="LED2" library="led" package="CHIPLED_0603" value="green" x="89.535" y="-31.75" locked="yes" smashed="yes">
 <attribute name="NAME" x="88.9" y="-34.29" size="0.635" layer="25" ratio="20" rot="R90"/>
 <attribute name="VALUE" x="91.44" y="-33.02" size="1.27" layer="27" rot="R90"/>
+<attribute name="MPN" value="LG Q971-KN-1" x="89.535" y="-31.75" size="1.778" layer="27" display="off"/>
 </element>
-<element name="R34" library="rcl" package="R0603" value="4.75K" x="89.535" y="-31.75" locked="yes" smashed="yes" rot="MR90">
+<element name="R34" library="rcl" package="R0603" value="50" x="89.535" y="-31.75" locked="yes" smashed="yes" rot="MR90">
 <attribute name="NAME" x="90.17" y="-32.385" size="0.635" layer="26" ratio="20" rot="MR90"/>
+<attribute name="MPN" value="302-49.9-RC" x="89.535" y="-31.75" size="1.778" layer="28" rot="MR90" display="off"/>
 </element>
-<element name="LED3" library="led" package="CHIPLED_0603" value="" x="89.535" y="-52.705" locked="yes" smashed="yes">
+<element name="LED3" library="led" package="CHIPLED_0603" value="vdd_blue" x="89.535" y="-52.705" locked="yes" smashed="yes">
 <attribute name="NAME" x="88.9" y="-53.975" size="0.635" layer="25" ratio="20" rot="R90"/>
 <attribute name="VALUE" x="91.44" y="-53.975" size="1.27" layer="27" rot="R90"/>
+<attribute name="MPN" value="VLMB1300-GS08" x="89.535" y="-52.705" size="1.778" layer="27" display="off"/>
 </element>
 <element name="R1" library="rcl" package="R0603" value="60" x="89.535" y="-52.705" locked="yes" smashed="yes" rot="MR90">
 <attribute name="NAME" x="90.17" y="-53.34" size="0.635" layer="26" ratio="20" rot="MR90"/>
 <attribute name="MPN" value="302-60.4-RC" x="89.535" y="-52.705" size="1.778" layer="28" rot="MR90" display="off"/>
 </element>
-<element name="LED4" library="led" package="CHIPLED_0603" value="" x="89.535" y="27.94" locked="yes" smashed="yes">
+<element name="LED4" library="led" package="CHIPLED_0603" value="blue" x="89.535" y="27.94" locked="yes" smashed="yes">
 <attribute name="NAME" x="88.9" y="26.67" size="0.635" layer="25" ratio="20" rot="R90"/>
 <attribute name="VALUE" x="91.44" y="26.67" size="1.27" layer="27" rot="R90"/>
+<attribute name="MPN" value="HT-193NB-5589" x="89.535" y="27.94" size="1.778" layer="27" display="off"/>
 </element>
-<element name="R2" library="rcl" package="R0603" value="4.75K" x="89.535" y="27.94" locked="yes" smashed="yes" rot="MR90">
+<element name="R2" library="rcl" package="R0603" value="150" x="89.535" y="27.94" locked="yes" smashed="yes" rot="MR90">
 <attribute name="NAME" x="90.17" y="27.305" size="0.635" layer="26" ratio="20" rot="MR90"/>
+<attribute name="MPN" value="302-150-RC" x="89.535" y="27.94" size="1.778" layer="28" rot="MR90" display="off"/>
 </element>
-<element name="LED5" library="led" package="CHIPLED_0603" value="" x="89.535" y="38.1" locked="yes" smashed="yes">
+<element name="LED5" library="led" package="CHIPLED_0603" value="green" x="89.535" y="38.1" locked="yes" smashed="yes">
 <attribute name="NAME" x="88.9" y="36.83" size="0.635" layer="25" ratio="20" rot="R90"/>
 <attribute name="VALUE" x="91.44" y="36.83" size="1.27" layer="27" rot="R90"/>
+<attribute name="MPN" value="LG Q971-KN-1" x="89.535" y="38.1" size="1.778" layer="27" display="off"/>
 </element>
-<element name="R3" library="rcl" package="R0603" value="4.75K" x="89.535" y="38.1" locked="yes" smashed="yes" rot="MR90">
+<element name="R3" library="rcl" package="R0603" value="50" x="89.535" y="38.1" locked="yes" smashed="yes" rot="MR90">
 <attribute name="NAME" x="90.17" y="37.465" size="0.635" layer="26" ratio="20" rot="MR90"/>
+<attribute name="MPN" value="302-49.9-RC" x="89.535" y="38.1" size="1.778" layer="28" rot="MR90" display="off"/>
 </element>
-<element name="LED6" library="led" package="CHIPLED_0603" value="" x="89.535" y="16.51" locked="yes" smashed="yes">
+<element name="LED6" library="led" package="CHIPLED_0603" value="vdd_blue" x="89.535" y="16.51" locked="yes" smashed="yes">
 <attribute name="NAME" x="88.9" y="15.24" size="0.635" layer="25" ratio="20" rot="R90"/>
 <attribute name="VALUE" x="91.44" y="15.24" size="1.27" layer="27" rot="R90"/>
+<attribute name="MPN" value="VLMB1300-GS08" x="89.535" y="16.51" size="1.778" layer="27" display="off"/>
 </element>
 <element name="R4" library="rcl" package="R0603" value="60" x="89.535" y="16.51" locked="yes" smashed="yes" rot="MR90">
 <attribute name="NAME" x="90.17" y="15.875" size="0.635" layer="26" ratio="20" rot="MR90"/>
 <attribute name="MPN" value="302-60.4-RC" x="89.535" y="16.51" size="1.778" layer="28" rot="MR90" display="off"/>
 </element>
-<element name="LED7" library="led" package="CHIPLED_0603" value="" x="89.535" y="96.52" locked="yes" smashed="yes">
+<element name="LED7" library="led" package="CHIPLED_0603" value="blue" x="89.535" y="96.52" locked="yes" smashed="yes">
 <attribute name="NAME" x="88.9" y="95.25" size="0.635" layer="25" ratio="20" rot="R90"/>
 <attribute name="VALUE" x="91.44" y="95.25" size="1.27" layer="27" rot="R90"/>
+<attribute name="MPN" value="HT-193NB-5589" x="89.535" y="96.52" size="1.778" layer="27" display="off"/>
 </element>
-<element name="R5" library="rcl" package="R0603" value="4.75K" x="89.535" y="96.52" locked="yes" smashed="yes" rot="MR90">
+<element name="R5" library="rcl" package="R0603" value="150" x="89.535" y="96.52" locked="yes" smashed="yes" rot="MR90">
 <attribute name="NAME" x="90.17" y="95.885" size="0.635" layer="26" ratio="20" rot="MR90"/>
+<attribute name="MPN" value="302-150-RC" x="89.535" y="96.52" size="1.778" layer="28" rot="MR90" display="off"/>
 </element>
-<element name="LED8" library="led" package="CHIPLED_0603" value="" x="89.535" y="107.315" locked="yes" smashed="yes">
+<element name="LED8" library="led" package="CHIPLED_0603" value="green" x="89.535" y="107.315" locked="yes" smashed="yes">
 <attribute name="NAME" x="88.9" y="104.775" size="0.635" layer="25" ratio="20" rot="R90"/>
 <attribute name="VALUE" x="91.44" y="106.045" size="1.27" layer="27" rot="R90"/>
+<attribute name="MPN" value="LG Q971-KN-1" x="89.535" y="107.315" size="1.778" layer="27" display="off"/>
 </element>
-<element name="R6" library="rcl" package="R0603" value="4.75K" x="89.535" y="107.315" locked="yes" smashed="yes" rot="MR90">
+<element name="R6" library="rcl" package="R0603" value="50" x="89.535" y="107.315" locked="yes" smashed="yes" rot="MR90">
 <attribute name="NAME" x="90.17" y="106.68" size="0.635" layer="26" ratio="20" rot="MR90"/>
+<attribute name="MPN" value="302-49.9-RC" x="89.535" y="107.315" size="1.778" layer="28" rot="MR90" display="off"/>
 </element>
-<element name="LED9" library="led" package="CHIPLED_0603" value="" x="89.535" y="86.36" locked="yes" smashed="yes">
+<element name="LED9" library="led" package="CHIPLED_0603" value="vdd_blue" x="89.535" y="86.36" locked="yes" smashed="yes">
 <attribute name="NAME" x="88.9" y="85.09" size="0.635" layer="25" ratio="20" rot="R90"/>
 <attribute name="VALUE" x="91.44" y="85.09" size="1.27" layer="27" rot="R90"/>
+<attribute name="MPN" value="VLMB1300-GS08" x="89.535" y="86.36" size="1.778" layer="27" display="off"/>
 </element>
 <element name="R7" library="rcl" package="R0603" value="60" x="89.535" y="86.36" locked="yes" smashed="yes" rot="MR90">
 <attribute name="NAME" x="90.17" y="85.725" size="0.635" layer="26" ratio="20" rot="MR90"/>
-<attribute name="MPB" value="302-60.4-RC" x="89.535" y="86.36" size="1.778" layer="28" rot="MR90" display="off"/>
+<attribute name="MPN" value="302-60.4-RC" x="89.535" y="86.36" size="1.778" layer="28" rot="MR90" display="off"/>
 </element>
 </elements>
 <signals>
